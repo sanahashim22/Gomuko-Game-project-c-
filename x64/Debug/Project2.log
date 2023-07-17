@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\HINA HASHIM\Desktop\Gomuko cpp\Project2\Source.cpp(82,7): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\HINA HASHIM\Desktop\Gomuko cpp\Project2\Source.cpp(163,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> C:\Users\HINA HASHIM\Desktop\Gomuko cpp\Project2\x64\Debug\Project2.exe
